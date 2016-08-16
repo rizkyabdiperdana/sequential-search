@@ -23,3 +23,5 @@ ketemu = 0;
 while((i<10) && (ketemu==0))
 {
     if(Data[i] == bil_cari)
+    {
+    ketemu=1;
