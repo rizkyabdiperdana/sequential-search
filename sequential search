@@ -20,4 +20,4 @@ i=0;
 cout<<" \n\n Inputkan Bilangan Yang Dicari = "; cin>>bil_cari;
 ketemu = 0;
 
-while((i<10) && 
+while((i<10) && (ketemu==0))
