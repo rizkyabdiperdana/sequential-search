@@ -28,3 +28,4 @@ while((i<10) && (ketemu==0))
 cout<<" \n Pencarian sequential "<<bil_cari<<" Ada Pada Indeks ke - " <<i;
 }
     else
+    i=i+1;
