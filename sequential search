@@ -14,3 +14,5 @@ cout<<" Inputan Jumlah Data Dalam Array : "; cin>>n;
 cout<<endl;
 for(int c=0; c<n; c++)
     {
+cout<<" Elemen Data Array Ke - "<<c<<" = "; cin>>Data[c];
+    }
