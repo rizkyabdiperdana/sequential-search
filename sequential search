@@ -5,3 +5,5 @@ int main()
 {
     cout<<" "<<endl;
 cout<<"======PROGRAM PENCARIAN DATA ARRAY========"<<endl;
+cout<<" "<<endl<<endl;
+
