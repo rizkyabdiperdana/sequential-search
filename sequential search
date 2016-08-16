@@ -25,3 +25,4 @@ while((i<10) && (ketemu==0))
     if(Data[i] == bil_cari)
     {
     ketemu=1;
+cout<<" \n Pencarian sequential "<<bil_cari<<" 
