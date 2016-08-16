@@ -32,3 +32,4 @@ cout<<" \n Pencarian sequential "<<bil_cari<<" Ada Pada Indeks ke - " <<i;
 }
 if(ketemu == 1)
 cout<<"\n Data ada dalam larik!!! "<<endl;
+else
